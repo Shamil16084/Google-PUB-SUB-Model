@@ -1,6 +1,6 @@
 # Content-Based Subscription with Google Cloud Pub/Sub
 
-**Video Link**: [ADA SharePoint](https://adauniversity.sharepoint.com/:v:/s/assignment2/IQA4xIiVPzPxS7e5a1K0y1X_AU_TDhaQd4vEF5xNBOC-jKE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gtyogT)
+**Video Link**: [Youtube](https://youtu.be/kHJnl5QsHzg?si=50DaWgt-ojGqZ59K)
 
 ## Overview
 
@@ -77,3 +77,4 @@ python subscribers/subscriber3.py
 4. Update Rules Dynamically
 
 Edit config/rules.json. Subscribers reload the rules automatically every 10 seconds.
+
